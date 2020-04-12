@@ -1,17 +1,17 @@
 * text=auto !eol
 arc/libarchive/config.yaml.in -text
-arc/libarchive/libarchive-3_4_1-release/config.yaml.in -text
+arc/libarchive/libarchive-3_4_2-release/config.yaml.in -text
 arc/xzutils/config.yaml.in -text
-arc/xzutils/xzutils-5_2_4-release/config.yaml.in -text
+arc/xzutils/xzutils-5_2_5-release/config.yaml.in -text
 log/p7client/config.yaml.in -text
-log/p7client/p7client-5_3_0-release/config.yaml.in -text
+log/p7client/p7client-5_5_0-release/config.yaml.in -text
 math/qd/config.yaml.in -text
 math/qd/qd-2_3_22-release/config.yaml.in -text
 test/googletest/config.yaml.in -text
 test/googletest/googletest-1_10_0-release/config.yaml.in -text
 utility/fmt/config.yaml.in -text
-utility/fmt/fmt-6_1_2-release/config.yaml.in -text
+utility/fmt/fmt-6_2_0-release/config.yaml.in -text
 utility/pystring/config.yaml.in -text
-utility/pystring/pystring-1_1_3-20190321/config.yaml.in -text
+utility/pystring/pystring-1_1_3-20200204/config.yaml.in -text
 utility/tacklelib/config.yaml.in -text
 utility/tacklelib/tacklelib/config.yaml.in -text
