@@ -1,0 +1,2 @@
+# <scm_token>|<branch_type>|<remote_name> |<parent_remote_name>|<git_reporoot>                  |<svn_reporoot>|<git_local_branch>|<git_remote_branch>|<parent_git_path_prefix>       |<git_path_prefix>|<svn_path_prefix>     |<git_svn_init_cmdline>|<git_remote_add_cmdline>
+GIT_GH       |root         |origin        |.                   |${BOOST.${SCM_TOKEN}.ORIGIN}    |.             |master            |1_72_0_release     |.                              |.                |.                     |.                     |.
